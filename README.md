@@ -78,5 +78,6 @@ The mod comes with full English and Russian localisation. The translations to ot
 - [Drake's & YaK's Fixpack for BS2](../../../Drake-s-and-YaK-s-Unofficial-Fixpack-for-BS2)
 - [Nafeij's BS3 Fixpack](../../../Nafeij-s-BS3-Fixpack)
 
+---
 
-#-mod made by Owfrin.
+# Mod made by Owfrin.
