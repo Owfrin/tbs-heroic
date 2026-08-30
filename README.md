@@ -80,4 +80,8 @@ The mod comes with full English and Russian localisation. The translations to ot
 
 ---
 
+<<<<<<< Updated upstream
 # Mod made by Owfrin.
+=======
+# Mod made by Owfrin.
+>>>>>>> Stashed changes
