@@ -79,4 +79,4 @@ The mod comes with full English and Russian localisation. The translations to ot
 - [Nafeij's BS3 Fixpack](../../../Nafeij-s-BS3-Fixpack)
 
 
--mod made by Owfrin.
+#-mod made by Owfrin.
