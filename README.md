@@ -42,7 +42,6 @@ This mod changes most of the character abilities, talents and Heroic titles; rew
 - Now Easy gives +0/+0 to enemies’ ARM/STR, Normal gives +1/+1 to enemies’ ARM/STR and Hard gives +2/+2 to enemies’ ARM/STR. The danger levels remain unchanged. All three games and their additional game modes now have a unified difficulty system.
 - For those who love creating custom scenarios, Eternal Arena now has 50 enemy buckets in total, as well as 8 new item sets and 4 extra hero rosters.
 
-
 This mod is built on top of community-created fixpacks, legacy-support mods by Yak, Drake and Nafeji that correct bugs, inconsistencies and typos, restore cut content, add secret items and feature various QoL improvements. I did not make those mods, and I do not take any credit for them. I am highly respectful to their creators and very thankful for their work.
 
 Huge thanks to:
@@ -57,7 +56,9 @@ Huge thanks to:
  - Richard_aka_ElTaino.
 
 
-Please report any bugs in to me on GitHub, Discord or Reddit. I am open to any feedback or suggestions.
+Please report any bugs in to me on GitHub, Nexus, Discord or Reddit. I am open to any feedback or suggestions.
+
+The mod comes with full English and Russian localisation. The translations to other languages remained vanilla, they do not reflect the changes the mod made. If anyone is willing to provide a localisation for the mod, please contact me. I'd be happy to get the mod available for as many people as possible. 
 
 ---
 
@@ -65,7 +66,8 @@ Please report any bugs in to me on GitHub, Discord or Reddit. I am open to any f
 
 1. Download the archive. You can get it on GitHub, Nexusmods, Reddit and Discord.
 2. Uncompress the zip archive and place the `/tbs1`, `/tbs2`, `/tbs3` folders in your game folder (e.g. `.../steamapps/common`). It will ask you to overwrite some files. Each folder contains a mod to the respective game.
-
+3. After launching the game, you will see that the game's logo at the main menu screen has changed. It should have the fixpack inscription added to it from the respective fixpack and the word 'Heroic' next to it. If this is true, than the mod is installed correctly.
+ 
 ## To Uninstall
 
 `Properties -> Verify the integrity of game files` in Steam.
