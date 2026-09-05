@@ -1,4 +1,4 @@
-# The Banner Saga – Heroic Mod - version 1.0
+# The Banner Saga – Heroic Mod - version 1.1
 
 > for Banner Saga 1, Steam version 2.58.17;
 > Banner Saga 2, Steam version 2.59.01;
